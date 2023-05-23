@@ -1,5 +1,5 @@
  
- ![](Banner.gif)
+ ![](Banner.png)
  ## Hello! Tarun here👋
 - 📝 Currently pursuing **BTech.CSE** from **Punjab Technical University , Jalandhar**
 - 🔭 Currently working on **My Portfolio**
